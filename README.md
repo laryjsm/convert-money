@@ -11,6 +11,8 @@
   - CSS
   <br>
   - JAVASCRIPT
+  
+  <img src="https://github.com/laryjsm/convert-money/blob/master/assets/img.png?raw=true" />
 
   
   Made with ♥ by Laryssa Maris :wave: [Get in touch!](https://www.linkedin.com/in/laryssa-maris-738090236/)
